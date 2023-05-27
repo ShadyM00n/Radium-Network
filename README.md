@@ -1,6 +1,6 @@
 # Radium-Network
 ***
-!!! note Meet the Devs
+## Meet the Devs
 - [x] ShadyMoon
 - [x] hdsnblu
 - [x] Beaglez
