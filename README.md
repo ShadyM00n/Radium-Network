@@ -10,6 +10,3 @@
 ***
 ### links
 - [Radium Net Discord](https://dsc.gg/RadiumNetwork)
-
-
-== test ==
