@@ -1,6 +1,6 @@
 # Radium-Network
 ***
-## Meet the developers
+!!! note Meet the Devs
 - [x] ShadyMoon
 - [x] hdsnblu
 - [x] Beaglez
@@ -8,3 +8,5 @@
 - [x] proudparrot2
 - [x] NotActiveCurrently
 ***
+### links
+- [Radium Net Discord](https://dsc.gg/RadiumNetwork)
